@@ -1,0 +1,13 @@
+html {}
+
+body {
+    margin-bottom: 50px;
+    padding: 15px 20px;
+    min-height: 99%;
+    width: 100%;
+    min-width: 550px;
+    color: #ffffff;
+    background: #000000;
+    font-family: cursor, monospace;
+    overflow-x: hidden;
+}

@@ -85,7 +85,7 @@ export default function Index() {
               texterRef.current != undefined
             ) {
               if (event.key === "Enter") {
-                const prefix = "[visitor@localhost ~]$ ";
+                const prefix = "[visitor@alanlee.app ~]$ ";
                 const command = texterRef.current.value.trim();
                 texterRef.current.value = "";
                 typerRef.current.innerText = "";
@@ -101,7 +101,7 @@ export default function Index() {
                     currentStrArray.current = github;
                     setTimeout(function () {
                       window.open(
-                        "https://github.com/alansiuminglee/myterminal?tab=readme-ov-file"
+                        "https://github.com/alansiuminglee/portfolio/tree/master"
                       );
                     }, 1000);
                     break;

@@ -12,7 +12,7 @@ export const links: LinksFunction = () => [
 export const meta: MetaFunction = () => {
   return [
     { title: "Alan Lee | Terminal" },
-    { name: "description", content: "Welcome to Remix!" },
+    { name: "description", content: "Welcome to my profile!" },
   ];
 };
 

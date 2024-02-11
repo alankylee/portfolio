@@ -1,6 +1,7 @@
 # Welcome
 
 [Demo page](https://alanlee-winnipeg.koyeb.app/)
+![Preview](https://github.com/alansiuminglee/portfolio/blob/master/Preview.png?raw=true)
 
 ## Development
 

@@ -85,7 +85,7 @@ export default function Index() {
               texterRef.current != undefined
             ) {
               if (event.key === "Enter") {
-                const prefix = "[visitor@alanlee.app ~]$ ";
+                const prefix = "[visitor@alankylee.info ~]$ ";
                 const command = texterRef.current.value.trim();
                 texterRef.current.value = "";
                 typerRef.current.innerText = "";

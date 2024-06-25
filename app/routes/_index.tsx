@@ -101,7 +101,7 @@ export default function Index() {
                     currentStrArray.current = github;
                     setTimeout(function () {
                       window.open(
-                        "https://github.com/alansiuminglee/portfolio/tree/master"
+                        "https://github.com/alankylee"
                       );
                     }, 1000);
                     break;
@@ -109,7 +109,7 @@ export default function Index() {
                     currentStrArray.current = linkedin;
                     setTimeout(function () {
                       window.open(
-                        "https://www.linkedin.com/in/alan-ka-yan-lee-b1a57a1ab/"
+                        "https://www.linkedin.com/in/alankylee/"
                       );
                     }, 1000);
                     break;

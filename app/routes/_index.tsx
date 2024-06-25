@@ -167,7 +167,7 @@ const welcomeBanner = [
   "  |_|  |_|\\__, |   |_|\\___|_|  |_| |_| |_|_|_| |_|\\__,_|_|\n",
   "          |___/                                           \n",
   "\n",
-  "Welcom to my terminal profile\n",
+  "Welcome to my terminal profile\n",
   "For a list of available commands, type 'help'.",
 ];
 
